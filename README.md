@@ -1,4 +1,4 @@
-![Nayan Khemka Banner](https://github.com/nayan-khemka/nayan-khemka/blob/e95c405416951d5f4de4fbcf310a70958c1cc5ec/WhatsApp%20Image%202022-09-10%20at%209.36.06%20PM.jpeg)
+![Nayan Khemka Banner](https://github.com/nayan-khemka/nayan-khemka/blob/63b6b5b1e0f3066773d1e6edabf3aa0b504976f8/Black%20Yellow%20Modern%20Start%20Training%20Today%20YouTube%20Channel%20Art.gif)
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Nayan</h2>
 
