@@ -50,6 +50,12 @@
 </a>
 </p>
 
+
+## 🔥 Streak Stats
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nayan-khemka&theme=algolia" alt="7oSkaaa" /></p>
+
+<br>
+
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
