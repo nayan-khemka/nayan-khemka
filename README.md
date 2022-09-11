@@ -47,7 +47,11 @@
 
 
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nayan-khemka&theme=algolia" alt="nayan-khemka" /></p>
+<p align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=nayan-khemka1&theme=tokyonightduo)](https://git.io/streak-stats)
+
+</p>
 
 <br>
 
