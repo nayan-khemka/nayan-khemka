@@ -48,9 +48,7 @@
 
 ## 🔥 Streak Stats
 <p align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=nayan-khemka&theme=tokyonight_duo)
-
+<img height="180em" src="https://streak-stats.demolab.com/?user=nayan-khemka&theme=tokyonight_duo"/>
 </p>
 
 <br>
