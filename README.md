@@ -49,7 +49,7 @@
 ## 🔥 Streak Stats
 <p align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=nayan-khemka1&theme=tokyonightduo)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=nayan-khemka1&theme=tokyonight_duo)](https://git.io/streak-stats)
 
 </p>
 
